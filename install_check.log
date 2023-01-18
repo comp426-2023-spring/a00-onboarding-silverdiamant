@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Annies-MacBook-Pro.local 20.6.0 Darwin Kernel Version 20.6.0: Mon Aug 29 04:31:06 PDT 2022; root:xnu-7195.141.39~2/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.37.3
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Aug 29 2022 04:57:53)
+CURL:	[/usr/bin/curl] curl 7.64.1 (x86_64-apple-darwin20.0) libcurl/7.64.1 (SecureTransport) LibreSSL/2.8.3 zlib/1.2.11 nghttp2/1.41.0
+NODE:	[/Users/annievo/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
